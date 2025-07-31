@@ -29,4 +29,4 @@ Your highest score is saved automatically in the browser using `localStorage` an
 
 ## 🌐 Live Demo
 
-[Play the Simon Game](https://szgeri25.github.io/simon-game/)
+👉[Play the Simon Game](https://szgeri25.github.io/simon-game/)
